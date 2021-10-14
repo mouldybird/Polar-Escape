@@ -1,5 +1,5 @@
 {
-    "name": "Steph and Liz",
+    "name": "polar escape",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -8,7 +8,9 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -20,5 +22,23 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#ffffff",
+        "#552136",
+        "#c7e5f3",
+        "#402f94",
+        "#f68f29",
+        "#d3204e",
+        "#04b3f3",
+        "#45c9f3",
+        "#1472d2",
+        "#7381a9",
+        "#396b9d",
+        "#76b5c5",
+        "#21130d",
+        "#873e23",
+        "#abdbe3"
+    ]
 }
